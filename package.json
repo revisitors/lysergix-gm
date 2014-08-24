@@ -1,0 +1,15 @@
+{
+  "name": "lysergix-gm",
+  "version": "1.0.0",
+  "description": "an api that writes smilies on images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Kois",
+  "license": "MIT",
+  "dependencies": {
+    "gm": "^1.16.0",
+    "lysergix": "~0.0.7"
+  }
+}
